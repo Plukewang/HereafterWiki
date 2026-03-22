@@ -7,7 +7,7 @@ title: The Hereafter
 
 ## Announcements and Releases
 
-[[What Is The Hereafter]]
+[[What Is The Hereafter?]]
 
 [[Color]]
 
